@@ -1,0 +1,2 @@
+# PhytonEssentials
+ 👋 Bem-vindo ao PythonEssentials!🐍 Neste repositório, compartilho minha jornada de aprendizado fundamental sobre Python, apresentando códigos e exemplos práticos que eu aprendi durante meus estudos. Embora a maioria dos códigos estejam em inglês, essa opção contribui para aprimorar o meu domínio do idioma. 🌟 Sinta-se à vontade para se juntar a mim nessa trajetória para aprender o básico de Python. 🚀

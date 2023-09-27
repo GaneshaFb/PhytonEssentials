@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f73ea3-13c6-4145-80a7-81368c8c3a6d" name="Changes" comment="" />
+    <list default="true" id="17f73ea3-13c6-4145-80a7-81368c8c3a6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aulas/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Index operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Return value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,17 +30,22 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Aulas/2D List.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Aulas/Break, continue &amp; pass.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Aulas/List.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Dictionary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Function.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Index operator.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Lists.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Aulas/Nested loop.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Return value.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Set.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Aulas/Tuple.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2U2gVhL02kc8PkE0wYp0Tlb5PTi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
